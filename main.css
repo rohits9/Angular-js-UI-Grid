@@ -1,0 +1,13 @@
+.grid {
+  height:450px;
+  margin-top:25px;
+}
+.footer{
+	background-color: #f8f8f8;
+    border-color: #e7e7e7;
+	margin-top:10px;
+	position:fixed;
+	bottom:0px;
+	width: 100%;
+	}
+
